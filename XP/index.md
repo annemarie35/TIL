@@ -1,3 +1,4 @@
+# TEST
 # Seven Steps to Great Unit Test Names
 Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-test-names.html
 
@@ -10,3 +11,9 @@ Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-tes
 7.Reconsider the name with each revisit. 
 
 > "Don't be worried about length when naming your tests...just be clear!"
+
+
+# CRAFT
+## Books
+Domain Driven Design Eric Evans
+
