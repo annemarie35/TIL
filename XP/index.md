@@ -1,3 +1,7 @@
+> There are only two hard things in Computer Science: cache invalidation and naming things. -- Phil Karlton
+
+https://martinfowler.com/bliki/TwoHardThings.html
+
 # TEST
 # Seven Steps to Great Unit Test Names
 Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-test-names.html
@@ -6,9 +10,9 @@ Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-tes
 2. Write the test.
 3. Get it to pass.
 4. Rename based on content.
-5. Rename based on a holistic fixture view. 
+5. Rename based on a holistic fixture view.
 6. Rename and reorganize other tests as appropriate.
-7.Reconsider the name with each revisit. 
+7.Reconsider the name with each revisit.
 
 > "Don't be worried about length when naming your tests...just be clear!"
 
@@ -17,3 +21,15 @@ Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-tes
 ## Books
 Domain Driven Design Eric Evans
 
+
+## CODE REVIEW
+- [Trisha Gee: Code Review Best Practices - SCLConf 2018](https://youtu.be/jXi8h44cbQA)
+- https://martinfowler.com/articles/ship-show-ask.html
+- [3 Good and Bad Ways to Write Team Coding Standards and Conventions](https://philippe.bourgau.net/3-good-and-bad-ways-to-write-team-coding-standards-and-conventions/)
+
+
+## MOB PROGRAMMING
+kata RPG pour apprendre les différents rôles et postures lors d’un mob : https://github.com/willemlarsen/mobprogrammingrpg
+
+## REFACTORING
+https://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/
