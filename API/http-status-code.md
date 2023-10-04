@@ -10,3 +10,6 @@
  
 ## Sources
 - [Java Apache HttpStatus API](https://hc.apache.org/httpclient-legacy/apidocs/org/apache/commons/httpclient/HttpStatus.html)
+
+## Http Status Code with dogs
+- https://httpstatusdogs.com/
