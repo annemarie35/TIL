@@ -16,3 +16,8 @@ Instead of cherry-picking commit from branch with parent is the wrong branch use
 `git commit --amend --no-edit --date=now`
 
 ## Co-Authors
+
+
+## Fixup
+
+- Find sha from commit to fix with `git log --oneline` 
