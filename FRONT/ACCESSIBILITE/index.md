@@ -15,6 +15,9 @@ https://chrome.google.com/webstore/detail/ostendo-laccessibilit%C3%A9-de/hfbgfme
 Voici un exemple d’exploitation des déclarations obligatoires d’accessibilité, orienté user : l’extension Ostendo ajoute une mention du niveau d’accessibilité directement dans les résultats de recherche (+ lien direct vers la déclaration détaillée), ce qui évite des clics inutiles (induisant donc une baisse d’audience des sites mauvais élèves).
 (Romy)
 
+# Dev tools
+Afficher l'arbre https://developer.chrome.com/blog/full-accessibility-tree/
+
 # Sources
 
 [Vue d’ensemble des standards d’accessibilité du W3C](https://www.w3.org/WAI/standards-guidelines/fr)
