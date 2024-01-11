@@ -52,3 +52,32 @@ docker https://stackoverflow.com/questions/71527736/c-sharp-sslexception-ssl-han
 
 - https://blog.logrocket.com/docker-sql-server/
 - https://github.com/GradedJestRisk/db-training/blob/master/RDBMS/SQLServer/restore-backup.md
+
+# FAQ
+- How to install a specific Node.js version in an alpine Docker image ?
+Example in the first line of this docker file 
+```
+FROM node:20.10-alpine
+
+# Installing libvips-dev for sharp Compatibility
+RUN apk update && apk add --no-cache build-base gcc autoconf automake zlib-dev libpng-dev nasm bash vips-dev git
+#ARG NODE_ENV=development
+#ENV NODE_ENV=${NODE_ENV}
+
+WORKDIR /opt/
+COPY package.json package-lock.json ./
+RUN npm install -g node-gyp
+RUN npm config set fetch-retry-maxtimeout 600000 -g && npm install
+ENV PATH /opt/node_modules/.bin:$PATH
+
+WORKDIR /opt/app
+COPY . .
+RUN chown -R node:node /opt/app #&& chmod -R 777 /opt
+USER node
+RUN ["npm", "run", "test"]
+RUN ["npm", "run", "format"]
+RUN ["npm", "run", "lint"]
+RUN ["npm", "run", "build"]
+EXPOSE 3000
+CMD ["npm", "run", "start:dev"]
+```
