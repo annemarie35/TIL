@@ -2,8 +2,15 @@
 
 ## Images
 
-List images on your machine `docker images`
-Then remove images `docker rmi image-id`
+List images on your machine
+```shell
+docker images
+```
+
+Then remove images given its id
+```shell
+docker rmi image-id
+````
 
 You may also find that you have stopped containers that are causing the lock. Remove these first using:
 
@@ -22,6 +29,16 @@ ps : process status [doc](https://docs.docker.com/engine/reference/commandline/p
 a : means --all
 --quiet or	-q : Only display container IDs
 
+Remove unused images 
+```shell
+docker image prune --all --force
+```
+See [documentation](https://docs.docker.com/reference/cli/docker/system/prune/#extended-description) for prune and that [stackoverflow](https://stackoverflow.com/questions/44785585/how-can-i-delete-all-local-docker-images) conversation
+
+List all containers 
+```shell
+docker container list -a
+```
 
 # Docker compose
 
