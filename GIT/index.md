@@ -18,6 +18,17 @@ Instead of cherry-picking commit from branch with parent is the wrong branch use
 ## Co-Authors
 
 
-## Fixup
+## Commit de fixup
 
 - Find sha from commit to fix with `git log --oneline` 
+- git add .
+- git commit --fixup <votre_sha1_de_commit>
+- git rebase -i --autosquash <votre_sha1_de_commit>~ (le ~ est très important !)
+- git push --force-with-lease
+
+https://medium.com/just-tech-it-now/git-commit-fixup-corriger-editer-un-commit-simplement-dd6c7d9026cd
+
+
+
+
+
