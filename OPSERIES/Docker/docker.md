@@ -29,13 +29,26 @@ ps : process status [doc](https://docs.docker.com/engine/reference/commandline/p
 a : means --all
 --quiet or	-q : Only display container IDs
 
-Remove unused images 
+### Remove unused images 
 ```shell
 docker image prune --all --force
 ```
 See [documentation](https://docs.docker.com/reference/cli/docker/system/prune/#extended-description) for prune and that [stackoverflow](https://stackoverflow.com/questions/44785585/how-can-i-delete-all-local-docker-images) conversation
 
-List all containers 
+
+### Remove all unused containers :
+```shell
+docker system prune
+```
+
+This will remove:
+- all stopped containers
+- all networks not used by at least one container
+- all dangling images
+- unused build cache
+
+
+### List all containers 
 ```shell
 docker container list -a
 ```
@@ -98,3 +111,6 @@ RUN ["npm", "run", "build"]
 EXPOSE 3000
 CMD ["npm", "run", "start:dev"]
 ```
+
+- Which network ?
+`docker network ls` 
