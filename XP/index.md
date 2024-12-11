@@ -21,6 +21,9 @@ Source : http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-tes
 ## Books
 Domain Driven Design Eric Evans
 
+## Couplage dans le code
+- Article de Sebastien Rocaserra : https://dev.to/sroccaserra/quelques-references-sur-le-couplage-dans-le-code-9g5
+
 
 ## CODE REVIEW
 - [Trisha Gee: Code Review Best Practices - SCLConf 2018](https://youtu.be/jXi8h44cbQA)
