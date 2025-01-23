@@ -36,3 +36,9 @@ kata RPG pour apprendre les différents rôles et postures lors d’un mob : htt
 
 ## REFACTORING
 https://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/
+
+
+## Merciless Refactoring
+Règle de travail consistant à modifier le code d'un programme afin d'en améliorer la facilité d'évolution, sans modifier son comportement, dès que le besoin s'en fait sentir
+[source](https://christophethibaut.com/2023/03/10/PO-4.html)
+[xp blog](http://www.extremeprogramming.org/rules/refactor.html)
