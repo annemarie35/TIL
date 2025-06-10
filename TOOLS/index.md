@@ -10,3 +10,8 @@
 
 # VIDEO
 - enregistrer son écran https://framalibre.org/content/kazam (attention à bien vérifier quel son on enregistre avant !)
+
+## Envoyer des fichiers
+- https://drop.chapril.org/ 
+
+- [Scribe](https://scribe.cemea.org/) est un service de transcription gratuit,
