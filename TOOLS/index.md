@@ -15,3 +15,9 @@
 - https://drop.chapril.org/ 
 
 - [Scribe](https://scribe.cemea.org/) est un service de transcription gratuit,
+
+# Pour faire des schémas
+- Mermaid 
+
+# Mob time
+- https://mobtime.hadrienmp.fr/ 

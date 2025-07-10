@@ -1,5 +1,6 @@
 # A VENTILER
 
+> N’attribuez jamais à la malveillance ce que l’incompétence suffit à expliquer
 
 Cassidoo (Cassidy Williams)
 - https://github.com/cassidoo/talks
@@ -34,7 +35,6 @@ Seulement, les concepts ne sont pas toujours compris, ou alors pour expliquer l'
 Alors, similaires ou différentes ?
 
 ## Jamestack
-
 Le mot Jamstack peut se séparer en deux parties “JAM” signifie JAVASCRIPT | API | MARKUP et STACK pour l’ensemble des technologies utilisées.
 
 ## DATETIME
@@ -51,7 +51,7 @@ https://classic.yarnpkg.com/en/docs/cli/autoclean/
 Ce qui pousse les devs à partir d’une entreprise (et plus globalement les personnes dans la tech)
 https://shirleyalmosni.wordpress.com/2021/02/19/ce-qui-pousse-les-devs-a-partir-dune-entreprise-et-plus-globalement-les-personnes-dans-la-tech/
 
-« Entre
+> «Entre
 ce que je pense,
 ce que je veux dire,
 ce que je crois dire,
@@ -62,8 +62,7 @@ ce que vous croyez comprendre,
 ce que vous voulez comprendre,
 et ce que vous comprenez,
 Il y a au moins dix possibilités (mais en réflexion pour la dizième...) de ne pas se comprendre.
-Mais, essayons quand même. »
-
+Mais, essayons quand même.»
 Nouvelle encyclopedie du savoir relatif et absolu, Edmond Wells (nous, les dieux, Bernard Werber)
 
 LIVRE HACK La face cachée d'internet : hackers, dark net... (Français) Broché – 7 juin 2017 de Rayna Stamboliyska  (Auteur) / https://www.face-cachee-internet.fr/
