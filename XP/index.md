@@ -35,7 +35,8 @@ Domain Driven Design Eric Evans
 kata RPG pour apprendre les différents rôles et postures lors d’un mob : https://github.com/willemlarsen/mobprogrammingrpg
 
 ## REFACTORING
-https://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/
+- https://philippe.bourgau.net/a-coding-dojo-exercises-plan-towards-refactoring-legacy-code/ 
+- Transformation Priority Premise: https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
 
 
 ## Merciless Refactoring
