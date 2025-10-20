@@ -8,3 +8,7 @@ Réflexion perso : parler du courage d'une personne face à l'adversité (probl�
 Être courageux/euse, c'est plutôt bien non ?
 Pourtant, et je parle juste en mon nom, le courage est parfois la seule option possible pour affronter un parcours difficile ; et, je préfère ne pas être confrontée à l'épreuve si j'ai le choix.
 
+NB : 
+- [https://portail.basta.media/articles/bisounours-des-malades-du-cancer-critiquent-octobre-rose](https://portail.basta.media/articles/bisounours-des-malades-du-cancer-critiquent-octobre-rose)
+- [La France est-elle le pays ayant la plus grande incidence de cancers au monde ? C’est ce que suggère une étude parue le 25 septembre dans la revue The Lancet](https://www.lemonde.fr/planete/article/2025/10/10/cancer-pourquoi-la-france-fait-partie-des-pays-les-plus-touches-au-monde_6645641_3244.html).
+
