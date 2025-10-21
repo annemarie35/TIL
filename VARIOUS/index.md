@@ -1,12 +1,15 @@
 # A VENTILER
 
+## Rasoir de Hanlon
+Le rasoir de Hanlon est une règle de raisonnement permettant d'éliminer des hypothèses. Formulée en 1980 par le programmeur américain Robert J. Hanlon, cette règle s'énonce de la manière suivante : « Ne jamais attribuer à la malveillance ce que la bêtise suffit à expliquer ».
+
 > N’attribuez jamais à la malveillance ce que l’incompétence suffit à expliquer
 
 Cassidoo (Cassidy Williams)
 - https://github.com/cassidoo/talks
-- https://github.com/readme/guides/functional-programming-basics
+- https://github.com/readme/guides/functional-programming-basics Functionnal programming
 
-# mutation testing
+# Mutation testing
 https://pitest.org/
 
 
@@ -48,7 +51,7 @@ yarn autoclean
 Cleans and removes unnecessary files from package dependencies.
 https://classic.yarnpkg.com/en/docs/cli/autoclean/
 
-Ce qui pousse les devs à partir d’une entreprise (et plus globalement les personnes dans la tech)
+Ce qui pousse les devs à partir d’une entreprise (et plus globalement les personnes dans la tech)
 https://shirleyalmosni.wordpress.com/2021/02/19/ce-qui-pousse-les-devs-a-partir-dune-entreprise-et-plus-globalement-les-personnes-dans-la-tech/
 
 > «Entre
