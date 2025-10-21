@@ -20,3 +20,6 @@ Son évaluation n'a pas d'effets de bord (pas de mutation de variables statiques
 ## **Théorème de Cap** 
 Le théorème CAP nous dit qu'un système distribué ne peut fournir que deux des trois caractéristiques souhaitées : cohérence (Consistency), disponibilité (Availability) et tolérance au partitionnement (Partition Tolérance). 
 ## Théorie des files d'attente  (Loi de Little)
+
+# V
+-  VCR [version control system](https://en.wikipedia.org/wiki/Version_control)
