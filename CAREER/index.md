@@ -7,5 +7,4 @@ What happens after a few years in tech industry ?
 - https://touilleur-express.fr/2022/07/17/devenir-staff-engineer/
 - https://touilleur-express.fr/2022/07/20/vis-ma-vie-de-staff-principal-engineer/
 
-The good times in tech are over by sean goedecke [link](https://www.seangoedecke.com/good-times-are-over/)
-About layoffs in tech industry
+- The good times in tech are over by sean goedecke [link](https://www.seangoedecke.com/good-times-are-over/) : About layoffs in tech industry
