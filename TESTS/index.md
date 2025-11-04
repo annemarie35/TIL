@@ -11,3 +11,7 @@ Pour ma part, **Saml Jackson** sur de l'authentification via Oauth, ça m'a fait
 ## Alan Perlis
 (first recipient of the ACM Turing Award for computing):
 > “A software system can best be designed if the testing is interlaced with the designing instead of being used after the design.”
+
+
+## Mocks Aren't Stubs
+- On Martin Fowler's [blog](https://martinfowler.com/articles/mocksArentStubs.html)

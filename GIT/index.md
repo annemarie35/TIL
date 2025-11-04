@@ -10,9 +10,11 @@ Instead of cherry-picking commit from branch with parent is the wrong branch use
 - checkout on the feature branch then `git rebase --onto good-parent-branch feature-branch`
 
 ## Gorgeous log
-`git log --oneline --decorate --graph --all`
+- `git log --oneline --decorate --graph --all`
+- `git log --pretty=format:"%h - %an, %ar : %s"   `
 
-## Amend
+
+## Amend with no message change
 `git commit --amend --no-edit --date=now`
 
 ## Co-Authors
@@ -27,6 +29,7 @@ Instead of cherry-picking commit from branch with parent is the wrong branch use
 - git push --force-with-lease
 
 https://medium.com/just-tech-it-now/git-commit-fixup-corriger-editer-un-commit-simplement-dd6c7d9026cd
+
 
 
 
