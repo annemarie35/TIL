@@ -18,7 +18,17 @@ Instead of cherry-picking commit from branch with parent is the wrong branch use
 `git commit --amend --no-edit --date=now`
 
 ## Co-Authors
+([from pix](https://github.com/1024pix/pix))
 
+```text
+# Team Accès 🫶
+#
+# Co-authored-by: Anne-Marie E. <email1@example.net>
+# Co-authored-by: Clément L. <email2@example.net>
+```
+
+- Enregistrer le template ci-dessous dans un fichier dans le dossier utilisateur (par exemple `~/.gitmessage`)
+- Informer git de son existence avec la commande `git config --global commit.template ~/.gitmessage`
 
 ## Commit de fixup
 
