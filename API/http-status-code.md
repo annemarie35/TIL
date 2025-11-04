@@ -13,3 +13,6 @@
 
 ## Http Status Code with dogs
 - https://httpstatusdogs.com/[http-status-code.md](../../../TIL-LAST/API/http-status-code.md)
+
+## Hypertext Transfer Protocol RFC
+- [https://datatracker.ietf.org/doc/html/rfc2616](https://datatracker.ietf.org/doc/html/rfc2616)

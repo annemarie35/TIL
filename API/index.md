@@ -11,3 +11,6 @@ https://stateofapis.com/
 # Documentation
 Import a swagger to redoc ^^
 Test with Pix api https://redocly.github.io/redoc/?url=https://api.pix.fr/api/swagger.json
+
+# REST
+-  [Roy Fielding’s 2000 dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
