@@ -1,5 +1,7 @@
 # Women In It
 
+![img.png](img.png)
+
 > "Les femmes invitées comme rôles modèles dans la tech sont, par définition, celles qui ont réussi. Leur sincérité n’est pas en cause, mais leur discours est souvent formaté, positif, car celles qui ont rencontré des obstacles insurmontables… ne sont plus là pour témoigner. Leur récit risquerait de casser l’élan d’une table ronde inspirante."
 
 Isabelle Collet
