@@ -21,3 +21,6 @@
 
 # Mob time
 - https://mobtime.hadrienmp.fr/ 
+
+# All about diagrams
+- https://github.com/shubhamgrg04/awesome-diagramming
