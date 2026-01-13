@@ -1,8 +1,8 @@
 # SSH
 
-The github tutorial is nice to follow.
-One useful tips when for example, you want to use two github accounts, one pro and on personnal for example.
-Juste remove all keys
+The GitHub tutorial is nice to follow.
+One useful tips when, for example, you want to use two GitHub accounts, one pro and on personal for example.
+Just remove all keys
 
 ```shell
 ssh-add -D   
