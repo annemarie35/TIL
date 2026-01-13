@@ -4,3 +4,5 @@
 Je note ici les choses que j'ai apprises, testées, utilisées.
 
 Mon deuxième cerveau.
+
+NB : Je devrais le renommer en 'un jour j'ai appris que', car je transvase dans ce repo des notes éparpillées (et rangées dans des dossiers) sur mon ordinateur.
