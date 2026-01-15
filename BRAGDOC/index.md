@@ -8,3 +8,8 @@ Faire son BRAGDOC (woman on rails)
 
 ## 2024
 
+
+## 2015
+- **Co-Festival** : participation à l'organisation en tant que bénévole avant et pendant le festival. [Video](https://www.dailymotion.com/video/x3d3evm)
+Cofestival est un festival inclusif pour (déc)ouvrir les savoir-faire scientifiques et technologiques. Le Co-festival aura lieu à la Fondation Mozilla à Paris.
+
