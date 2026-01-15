@@ -1,6 +1,6 @@
 # GIT 
 
-## Everyday uses commands
+## Every day uses commands
 
 - When needed : `git push --force-with-lease`
 - When i want to unstage files : `git reset`
