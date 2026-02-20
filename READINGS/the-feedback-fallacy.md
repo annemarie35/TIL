@@ -86,13 +86,13 @@ L'excellence semble être inextricablement et merveilleusement liée à celui qu
 Mathieu - MOI
 18:02
 
-1/ La grande majorité des feedbacks que nous formulons, nous les formulons pour nous même ou a minima par rapport à notre propres caractéristiques de réussite
-2/ Nous apprenons par le renforcement de nos talents ; la critique négative entraine une lutte ou une fuite et bloque l'apprentissage
-3/ Il n'y a aucun standard universel de la performance et de l'excellence, elle est unique pour chacun de nous, nous ne pouvons donc pas  rationnellement positionner les autres sur cette échelle imaginaire (on le fait par rapport à notre échelle perso) ; la performance n'est pas l'inverse de l'échec
-4/ GAD est une feignasse en lecture
-5/ On parle de compétences qui manquent comme s'il y avait du vide; les humains sont plein de compétences point :slightly_smiling_face:
-6/ C'est l'outcome (donc le comportement observé) qui compte pas la compétence
-7/ un feedback sans réflexion sur le futur (les actions) est stérile
+- 1/ La grande majorité des feedbacks que nous formulons, nous les formulons pour nous même ou a minima par rapport à nos propres caractéristiques de réussite.
+- 2/ Nous apprenons par le renforcement de nos talents ; la critique négative entraine une lutte ou une fuite et bloque l'apprentissage.
+- 3/ Il n'y a aucun standard universel de la performance et de l'excellence, elle est unique pour chacun de nous, nous ne pouvons donc pas rationnellement positionner les autres sur cett échelle imaginaire (on le fait par rapport à notre échelle perso) ; la performance n'est pas l'inverse de l'échec.
+- 4/ GAD est une feignasse en lecture. 
+- 5/ On parle de compétences qui manquent comme s'il y avait du vide; les humains sont pleins de compétences point :slightly_smiling_face:- .
+- 6/ C'est l'outcome (donc le comportement observé) qui compte, pas la compétence.
+- 7/ un feedback sans réflexion sur le futur (les actions) est stérile.
 
 
 
