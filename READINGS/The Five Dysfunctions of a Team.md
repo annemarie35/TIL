@@ -1,5 +1,4 @@
-
-What are the 5 dysfunctions of a team according to Patrick Lencioni?
+# What are the 5 dysfunctions of a team according to Patrick Lencioni?
 
 **The five dysfunctions are:**
 
