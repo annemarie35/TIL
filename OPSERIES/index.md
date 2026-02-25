@@ -25,3 +25,7 @@ https://twitter.com/ImraneSubstack
 ## Livres et ressources
 
 Julian "The Queen" Evans  https://jvns.ca/
+
+## Divers
+
+- [Accelerate: How to Measure the Performance of your DevOps with the Right KPIs](https://scalastic.io/en/accelerate-devops-kpi/)
