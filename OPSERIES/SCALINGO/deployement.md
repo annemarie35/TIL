@@ -4,9 +4,9 @@ Se créer un compte sur Scalingo
 > Il est possible d'inviter des personnes au projet et de déléguer la propriété à un autre utilisateur également
 
 ## (Optionnel, les applications sont déjà créés et accessibles)
-- Créer une nouvelle application **frontend-eiko-challeng**e pour le front
+- Créer une nouvelle application **frontend-eiko-challenge** pour le front
 - Créer une nouvelle application **backend-eiko-challenge** pour le back
-> Il est possible de modifier ces nom ultérieurement
+> Il est possible de modifier ces noms ultérieurement
 
 - Ajouter un **addon**, par exemple une base de données **Mysql** pour l'application **backend-eiko-challenge**
 Dans l'onglet ressources sur Scalingo [https://dashboard.scalingo.com/apps/osc-fr1/backend-eiko-challenge/resources](https://dashboard.scalingo.com/apps/osc-fr1/backend-eiko-challenge/resources), cliquer sur `Add an addon`
@@ -58,7 +58,7 @@ Se rendre dans le menu **Environnement**.
 ![image](scalingo-menu.png)
 
 Comme nous sommes dans un monorepo, on va pusher sur le repo scalingo l'ensemble du code back et front.
-Il faut spécifier quel dossier doit être utilisé pour l'application choisie afin que lors du déployement, Scalingo sache dans quel dossier se mettre et lancer l(a)es commande(s) nécessaire(s) au lancement de l'application et spécifié dans le fichier `.Procile`
+Il faut spécifier quel dossier doit être utilisé pour l'application choisie afin que lors du déployement, Scalingo sache dans quel dossier se mettre et lancer l(a)es commande(s) nécessaire(s) au lancement de l'application et spécifié dans le fichier `.Procfile`
 
 - `PROJECT_DIR:Strapi` pour l'application **backend-eiko-challenge**
 - `PROJECT_DIR:NextJs` pour **frontend-eiko-challenge**
