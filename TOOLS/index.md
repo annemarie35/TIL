@@ -24,3 +24,8 @@
 
 # All about diagrams
 - https://github.com/shubhamgrg04/awesome-diagramming
+
+# Generate a random secret
+```shell
+openssl rand -base64 32
+```
