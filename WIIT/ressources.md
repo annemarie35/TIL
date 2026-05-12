@@ -90,3 +90,7 @@ Une thèse https://www.nber.org/system/files/working_papers/w18511/w18511.pdf
    
 # TALKS
 -  Des espaces sûrs pour les développeuses par Juliette Audema (Mars 2023) [lien vidéo](https://www.youtube.com/watch?v=ZFc4IaGDvsQ)  et [slides](https://docs.google.com/presentation/d/1nGmGMHy3dGCCPVljarbvQgns75zxncxuDXNp6jHKLMk/edit#slide=id.p)
+
+# CONFERENCES
+- [Favoriser la mixité dans les conférences tech, un guide par Manon Carbonnel](https://medium.com/@manon.carbonnel/favoriser-la-mixit%C3%A9-dans-les-conf%C3%A9rences-tech-un-guide-introduction-478ade9e96b3)
+
