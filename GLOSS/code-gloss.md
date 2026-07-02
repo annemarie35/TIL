@@ -16,6 +16,12 @@ Son évaluation n'a pas d'effets de bord (pas de mutation de variables statiques
 # G
 ## Gherkin (Syntaxe)
 
+
+# L
+## Rule of least power. 
+Not to be confused with Principle of least privilege. Le principe du moindre pouvoir en programmation recommande d'utiliser le langage le moins puissant mais suffisant pour accomplir une tâche, car un langage plus déclaratif permet généralement de mieux exploiter et réutiliser les données.
+[source](https://en.wikipedia.org/wiki/Rule_of_least_power) and https://www.w3.org/2001/tag/doc/leastPower.html
+
 # T
 ## **Théorème de Cap** 
 Le théorème CAP nous dit qu'un système distribué ne peut fournir que deux des trois caractéristiques souhaitées : cohérence (Consistency), disponibilité (Availability) et tolérance au partitionnement (Partition Tolérance). 

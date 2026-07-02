@@ -1,4 +1,4 @@
-# LAWS
+# LAWS - LOIS
 
 - Loi de Brooks : Ajouter des devs sur un projet en retard le retarde davantage.(Génie logiciel, gestion de projet)
 - Loi de Conway : Les systèmes reflètent la structure de communication des organisations. (Architecture logicielle, organisations)
@@ -19,3 +19,4 @@
 [source](https://jbuget.fr/posts/les-lois-empiriques-en-informatique/)
 
 “Excessive complexity is nature’s punishment for organizations that are unable to make decisions.” - [Gregor’s Law](https://architectelevator.com/gregors-law/)
+
