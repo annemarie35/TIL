@@ -46,4 +46,10 @@ But if each views the consequences of his own acts as having a bearing upon what
 - "Education and Democracy" - John Dewey
 - [source](https://www.linkedin.com/posts/arnaudbailly_pretty-accurate-description-of-what-teamwork-activity-7434657360268218371-yG1O)
 
+> However, as Gerald Weinberg was famous for saying, “No matter what they tell you, it’s always a people problem.”
+![img_2.png](img_2.png)
 
+However, there’s an important nuance: Weinberg’s actual formulation in the book is closer to:
+> “No matter how it looks at first, it’s always a people problem.”
+
+The quote is from Gerald M. Weinberg’s [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://geraldmweinberg.com/Site/Consulting_Secrets.html), originally published in 1985/1986 by Dorset House.
