@@ -14,7 +14,7 @@ How code supports human understanding
 - How context, scale, and team dynamics change what good code looks like
 - When refactoring and design practices actually improve outcomes — and when they don’t
 
-Synthesis by Claude.
+_Synthesis by Claude._
 
 ## Main Question: Is Clean Code a Myth?
 
@@ -93,7 +93,7 @@ The conversation concludes that clean code is about **habitability** - creating 
 # Notes
 ### Goldilocks Principle,
 est aussi appelé [le principe de boucle d'or](https://fr.wikipedia.org/wiki/Principe_de_Boucle_d%27or). 
-> Dans les sciences cognitives et la psychologie du développement, l'effet ou principe Boucle d'or se réfère à la préférence d'un nourrisson pour assister à des événements qui ne sont ni trop simples, ni trop complexes en fonction de leur représentation du monde
+> Dans les sciences cognitives et la psychologie du développement, l'effet ou principe Boucle d'or se réfère à la préférence d'un nourrisson pour assister à des événements qui ne sont ni trop simples, ni trop complexes en fonction de leur représentation du monde.
 
 ### Notion d'habitabilité par Richard Gabriel
 Il parle de code habitable, sur son site, il cite Christopher Alexander, on peut y lire :
